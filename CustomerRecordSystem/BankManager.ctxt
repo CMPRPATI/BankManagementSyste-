@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BankManager
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BankManager\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=BankMName\ BankMID
+comment1.target=BankManager(java.lang.String,\ java.lang.String)
+comment2.params=amount
+comment2.target=void\ deposit(int)
+comment3.params=amount
+comment3.target=void\ withdraw(int)
+comment4.params=
+comment4.target=void\ getPreviousTransaction()
+comment5.params=
+comment5.target=void\ showMenu()
+numComments=6

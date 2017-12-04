@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ApplicationDecline
+comment0.text=\r\n\ Author\:\ Rebecca\ Patient\ \r\n\ Date\:\ 12/03/2017\r\n\ \r\n\ Program\:\ MortgageUnSecuredLoan.java\r\n\ Description\:\ Program\ to\ permit\ user\ to\ input\ personal\ data\ including\ type\ of\ loan,\ credit\ card\ /\ bank\ details\ details.\r\n\t\t\t\t\r\n\ On\ completion\ of\ input\ -\ all\ data\ is\ validated\ and\ message\ outputted\ to\ screen\ to\ illustrate\ if\ user\ can\ be\ given\ the\ \r\n\ specific\ Mortgage\ loan\ type.\r\n\r\n
+comment1.params=
+comment1.target=ApplicationDecline()
+comment2.params=amount\ duration\ AccountNumber
+comment2.target=ApplicationDecline(int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=boolean\ isApplicationValid()
+comment4.params=AccountNumber
+comment4.target=void\ setAccountNumber(int)
+comment5.params=
+comment5.target=int\ getAccountNumber()
+numComments=6

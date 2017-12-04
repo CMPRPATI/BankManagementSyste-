@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CustomerApplication
+comment0.text=\r\n\ Author\:\ Rebecca\ Patient\ \r\n\ Date\:\ 12/12/2017\r\n\ \r\n\ Program\:\ CustomerApplication.java\r\n\ Description\:\ Program\ to\ permit\ user\ to\ input\ personal\ data\ including\ type\ of\ loan,\ credit\ card\ /\ bank\ details\ details.\r\n\t\t\t\t\r\n\ On\ completion\ of\ input\ -\ all\ data\ is\ validated\ and\ message\ outputted\ to\ screen\ to\ illustrate\ if\ user\ can\ be\ accepted\ \r\n\ or\ declined.\r\n\r\n
+comment1.params=
+comment1.target=CustomerApplication()
+comment2.params=typeOfApplication\ amount\ duration
+comment2.target=CustomerApplication(java.lang.String,\ int,\ java.lang.String)
+comment3.params=typeOfApplication
+comment3.target=void\ setTypeOfApplication(java.lang.String)
+comment4.params=amount
+comment4.target=void\ setAmount(int)
+comment5.params=duration
+comment5.target=void\ setDuration(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTypeOfApplication()
+comment7.params=
+comment7.target=int\ getAmount()
+comment8.params=
+comment8.target=java.lang.String\ getDuration()
+numComments=9

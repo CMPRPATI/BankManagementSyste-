@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ApplicationAccepted
+comment0.text=\r\n\ Author\:\ Rebecca\ Patient\ \r\n\ Date\:\ 03/12/2017\r\n\ \r\n\ Program\:\ ApplicationAccepted.java\r\n\ Description\:\ Program\ to\ permit\ user\ to\ input\ personal\ data\ including\ type\ of\ application,\ credit\ card\ /\ bank\ details\ details.\r\n\t\t\t\t\r\n\ On\ completion\ of\ input\ -\ all\ data\ is\ validated\ and\ message\ outputted\ to\ screen\ to\ illustrate\ if\ user\ can\ be\ given\ the\ \r\n\ specific\ application\ type.\r\n\r\n
+comment1.params=
+comment1.target=ApplicationAccepted()
+comment2.params=amount\ duration\ valueOfAccount
+comment2.target=ApplicationAccepted(int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=boolean\ isApplicationValid()
+comment4.params=valueOfAcount
+comment4.target=void\ setValueOfAccount(int)
+comment5.params=
+comment5.target=int\ getValueOfAccount()
+numComments=6

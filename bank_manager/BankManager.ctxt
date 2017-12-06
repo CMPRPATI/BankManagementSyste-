@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BankManager()
+comment1.params=idValue
+comment1.target=Account\ accessAccount(long)
+comment2.params=id\ transactionType\ amount
+comment2.target=void\ transaction(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ printAccounts()
+numComments=4

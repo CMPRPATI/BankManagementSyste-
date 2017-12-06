@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=class\ Person
+comment0.text=\nWrite\ a\ description\ of\ class\ Person\ here.\n\n@author\ (your\ name)\ \n@version\ (a\ version\ number\ or\ a\ date)\n\n
+comment1.params=person
+comment1.target=void\ sayHello(Person)
+comment1.text=\nsayHello\ method\ for\ objects\ of\ class\ Person\nParameter\:\ Person\ type\n\n
+comment2.params=personName\ personAge\ personSex
+comment2.target=Person(String,int,char)
+comment2.text=\nConstructor\ for\ objects\ of\ class\ Person\n\n
+comment3.target=age
+comment4.target=name
+comment5.params=
+comment5.target=void\ printDetails()
+comment5.text=\nprintDetails\ method\ for\ objects\ of\ class\ Person\n\n
+comment6.target=sex
+numComments=7

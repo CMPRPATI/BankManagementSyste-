@@ -43,8 +43,8 @@ public class BranchManager
     public void transaction(int accountnumber, int transactionType, int amount)
     {
        Account tempAccount;
-       tempAccount = ViewAccount (account);
-       if (tempAccount != null)
+       tempAccount = ViewAccount);
+      if (tempAccount != null)
        {
            if (transactionType == 0)
               tempAccount.deposit(amount);
